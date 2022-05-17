@@ -1,0 +1,11 @@
+[{
+  "_id": "1",
+  "name": "Jose luis",
+  "surname": "soto nuñez",
+  "phone": "989578451",
+  "accountSaving": "1047854789",
+  "accountAccount": "105986325",
+  "accountPermanent": "no tiene",
+  "creditCard": "aprovado",
+  "_class": "com.nttadata.bank.domain.Staff"
+}]
